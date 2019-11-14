@@ -20,6 +20,9 @@
         "editor.selectionForeground": "#000",
 		"editorBracketMatch.border": "#797979",
 		"editorLineNumber.foreground": "#474440",
+		"editorLightBulb.foreground": "#EE8241",
+		"editorLightBulbAutoFix.foreground": "#EE8241",
+		"editorOverviewRuler.bracketMatchForeground": "#EE8241",
         "symbolIcon.arrayForeground": "#EE8241",        
         "editorSuggestWidget.foreground": "#f3eded",         
         "editorSuggestWidget.highlightForeground": "#EE8241",         
@@ -120,7 +123,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#EE8241"
+				"foreground": "#eeeeee",
 			}
 		},
 		{
