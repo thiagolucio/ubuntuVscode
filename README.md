@@ -1,4 +1,7 @@
-# ubuntuvscode - Ubuntu Official Color Theme from VSCode
+# README
+## ubuntuvscode - Ubuntu Official Color Theme from VSCode
+
+Using ubuntu official colors to create VSCode Theme
 
 <p align="center">
   <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/ubuntuVscodeHtml.png" alt="preview HTML"/>

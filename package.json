@@ -1,0 +1,25 @@
+{
+    "name": "ubuntuvscode",
+    "displayName": "UbuntuVSCode",
+    "description": "A Ubuntu Official Color VSCode Theme",
+    "version": "0.0.1",
+    "publisher": "ThiagoLcioBittencourt",
+    "repository": {
+        "url": "https://github.com/thiagolucio/ubuntuVscode"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ubuntu Color VSCode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ubuntu Color VSCode-color-theme.json"
+            }
+        ]
+    }
+}
