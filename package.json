@@ -2,7 +2,7 @@
     "name": "ubuntuvscode",
     "displayName": "Ubuntu VSCode Theme",
     "description": "A Ubuntu Official Color VSCode Theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "ThiagoLcioBittencourt",
     "icon": "images/logo.png",
     "repository": {
