@@ -2,10 +2,11 @@
 	"name": "Ubuntu Color VSCode",
 	"type": "dark",
 	"colors": {	
-		"contrastBorder": "#000000",
+		// "contrastBorder": "#000000",
 		// "titleBar.activeForeground": "#fcb126",
-		"titleBar.activeBackground": "#1f1e1e",		
-		"activityBar.background": "#252525",		
+		"titleBar.activeBackground": "#222222",		
+		"activityBar.background": "#222222",
+
 		"menu.selectionBackground": "#EE8241",
         "menu.selectionForeground": "#000",
         "menubar.selectionBackground": "#EE8241",
