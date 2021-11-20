@@ -4,7 +4,7 @@
     <br/>
   <a href="https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.ubuntuvscode">VSCode MarketPlace</a>
     <br/>
-  <h3>Two different background contrast theme colors</h3>
+  <h3>Three different theme colors</h3>
     <br/>
 
   <p align="center">
