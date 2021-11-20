@@ -5,12 +5,27 @@
     "version": "0.0.2",
     "publisher": "ThiagoLcioBittencourt",
     "icon": "images/logo.png",
+    "homepage": "https://thiagolucio.com.br/",
+    "license": "MIT",
     "repository": {
         "url": "https://github.com/thiagolucio/ubuntuVscode"
     },
+    "keywords": [
+        "theme",
+        "ubuntu",
+        "ubuntu-theme",
+        "ubuntu official",
+        "thiagolucio",
+        "vscode ubuntu",
+        "vscode ubuntu theme"
+    ],
     "engines": {
-        "vscode": "^1.40.0"
+        "vscode": "^1.41.0"
     },
+    "galleryBanner": {
+        "color": "#5A3B90",
+        "theme": "dark"
+      },
     "categories": [
         "Themes"
     ],
@@ -20,6 +35,11 @@
                 "label": "Ubuntu Color VSCode",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Ubuntu Color VSCode-color-theme.json"
+            },
+            {
+                "label": "Ubuntu Color VSCode Dark Lite",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ubuntu Color VSCode-color-theme-dark-light.json"
             }
         ]
     }
