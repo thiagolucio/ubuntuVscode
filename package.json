@@ -2,7 +2,7 @@
     "name": "ubuntuvscode",
     "displayName": "Ubuntu VSCode Theme",
     "description": "A Ubuntu Official Color VSCode Theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "ThiagoLcioBittencourt",
     "icon": "images/logo.png",
     "homepage": "https://thiagolucio.com.br/",
@@ -40,6 +40,11 @@
                 "label": "Ubuntu Color VSCode Dark Lite",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Ubuntu Color VSCode-color-theme-dark-light.json"
+            },
+            {
+                "label": "Ubuntu Color VSCode Dark More Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ubuntu Color VSCode-color-theme-dark-more-light.json"
             }
         ]
     }
