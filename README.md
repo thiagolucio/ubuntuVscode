@@ -11,7 +11,7 @@
     <img width="128px" src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/logo.png" title="Logo Ubuntu VSCode Official Theme" alt="Logo Ubuntu VSCode Official Theme">
   </p>
 
-  ### Contrast Version (dark deep) - HTML:
+  ### Dark Deep Version - HTML:
   <p align="center">
     <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVScodeContrastHTML.png" alt="preview HTML"/>
   </p>
@@ -21,7 +21,7 @@
     <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVScodeHTML.png" alt="preview HTML"/>
   </p>
 
-  ## Contrast Version (dark deep) - CSS:
+  ## Dark Deep Version - CSS:
   <p align="center">
     <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVSCodeContrastCSS.png" alt="preview CSS"/>
   </p>
@@ -31,7 +31,7 @@
     <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuThemeCSS.png" alt="preview CSS"/>
   </p>  
 
-  ## Contrast Version (dark deep) - JavaScript:
+  ## Dark Deep Version - JavaScript:
   <p align="center">
     <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVSCodeContrastJS.png" alt="preview Javascript"/>
   </p>
@@ -70,13 +70,9 @@
   <p align="center">
     <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVSCodeTopMenu.png" alt="Top Menu"/>
   </p>
-
-
-
-
+</div>
 
   ### For more information
   * [Thiago Lúcio Bittencourt Site](https://thiagolucio.com.br/)
   * [Thiago Lúcio Bittencourt VSCode Profile](https://marketplace.visualstudio.com/manage/publishers/thiagolciobittencourt)
   **Enjoy!**
-</div>
