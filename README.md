@@ -13,12 +13,17 @@
 
   ### Dark Deep Version - HTML:
   <p align="center">
-    <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVScodeContrastHTML.png" alt="preview HTML"/>
+    <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/ThemeDeepDark.png" alt="preview HTML"/>
   </p>
 
-  ## Dark Light Version - HTML:
+  ## Dark Soft Version - HTML:
   <p align="center">
-    <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVScodeHTML.png" alt="preview HTML"/>
+    <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/ThemeSoftDark.png" alt="preview HTML"/>
+  </p>  
+
+  ## Dark Highlight Version - HTML:
+  <p align="center">
+    <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/ThemeDarkHighlight.png" alt="preview HTML"/>
   </p>
 
   ## Dark Deep Version - CSS:

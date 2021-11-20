@@ -3,10 +3,8 @@
 	"type": "dark",
 	"colors": {	
 		"contrastBorder": "#111111",
-		// "titleBar.activeForeground": "#fcb126",
 		"titleBar.activeBackground": "#222222",		
 		"activityBar.background": "#222222",
-
 		"menu.selectionBackground": "#EE8241",
         "menu.selectionForeground": "#000",
         "menubar.selectionBackground": "#EE8241",
@@ -18,10 +16,8 @@
 		"editor.foreground": "#eeffff",        
         "editor.background": "#131313",
         "editor.selectionBackground": "#865d2896",
-
 		"editor.lineHighlightBackground": "#212121",
 		"editor.lineHighlightBorder": "#222222",
-
         "editor.selectionForeground": "#000",
 		"editorBracketMatch.border": "#797979",
 		"editorLineNumber.foreground": "#474440",
