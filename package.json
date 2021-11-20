@@ -2,7 +2,7 @@
     "name": "ubuntuvscode",
     "displayName": "Ubuntu VSCode Theme",
     "description": "A Ubuntu Official Color VSCode Theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "ThiagoLcioBittencourt",
     "icon": "images/logo.png",
     "homepage": "https://thiagolucio.com.br/",
@@ -23,7 +23,7 @@
         "vscode": "^1.41.0"
     },
     "galleryBanner": {
-        "color": "#5A3B90",
+        "color": "#f76203",
         "theme": "dark"
       },
     "categories": [
