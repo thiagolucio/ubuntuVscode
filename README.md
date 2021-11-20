@@ -6,9 +6,7 @@
   <br/>
   <h3>Two different background contrast theme colors</h3>
   <br/>
-
-  <img src="logo.png" title="Logo Ubuntu VSCode Official Theme" alt="Logo Ubuntu VSCode Official Theme">
-
+  <img width="128px" src="https://thiagolucio.com.br/downloads/omnidraculatheme/logo.png" title="Logo Ubuntu VSCode Official Theme" alt="Logo Ubuntu VSCode Official Theme">
   <p align="center">
     <img src="https://thiagolucio.com.br/downloads/ubuntuvscodetheme/UbuntuVScodeContrastHTML.png" alt="preview HTML"/>
   </p>
